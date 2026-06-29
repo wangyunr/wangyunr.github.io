@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Candidate in Applied Economics and Management, Cornell University, expected Dec 2026
+* Ph.D. Candidate in Applied Economics and Management, Cornell University, 2027
 * M.S. in Applied Economics and Management, Cornell University, 2022
 * B.A. in Economics, University of Minnesota, Twin Cities, 2020
   * High Distinction
