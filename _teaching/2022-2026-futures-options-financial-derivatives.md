@@ -1,14 +1,14 @@
 ---
-title: "Teaching Assistant: AEM 4210/6410 Futures, Options and Financial Derivatives"
+title: "Teaching Assistant: Futures, Options, and Financial Derivatives"
 collection: teaching
-type: "Graduate Course"
+type: "Teaching Assistant"
 permalink: /teaching/futures-options-financial-derivatives
 venue: "Cornell University"
-date: 2022-2026
+date: 2022-08-22
 location: "Ithaca, NY, USA"
 ---
 
-This is a teaching assistant experience for a course on AEM 4210/6410 Futures, Options and Financial Derivatives. The course covered derivatives markets, hedging strategies, options risk management, and applied commodity-market analysis.
+This is a teaching assistant experience for a course on futures, options, and financial derivatives. The course covered derivatives markets, hedging strategies, options risk management, and applied commodity-market analysis.
 
 Responsibilities
 ======
