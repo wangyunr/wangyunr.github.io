@@ -3,15 +3,19 @@ title: "The variability fingerprint of a warming world informing climate risk an
 collection: publications
 category: manuscripts
 permalink: /publication/2026-06-06-variability-fingerprint-warming-world
-excerpt: "This article develops a stochastic framework linking temperature variability, Hurst coefficients, and climate risk assessment across regions and seasons."
+excerpt: "Examines how temperature variability changes across regions and seasons using a stochastic framework and an empirical Hurst coefficient."
 date: 2026-06-06
 venue: "Scientific Reports"
-slidesurl:
 paperurl: "https://www.nature.com/articles/s41598-026-54733-4"
-bibtexurl:
-citation: 'Wang, Y., & Turvey, C. G. (2026). &quot;The variability fingerprint of a warming world informing climate risk and solutions.&quot; <i>Scientific Reports</i>. https://doi.org/10.1038/s41598-026-54733-4'
+citation: 'Wang, Y., & Turvey, C. G. (2026). The variability fingerprint of a warming world informing climate risk and solutions. <i>Scientific Reports</i>, <i>16</i>, 26154. https://doi.org/10.1038/s41598-026-54733-4'
 ---
 
-This article develops a stochastic framework to characterize variance scaling in detrended temperature records and links this behavior to an empirical Hurst coefficient. The study shows that changes in temperature variability differ across regions and seasons, with larger variance changes in equatorial regions such as southeastern Amazonia and western Indonesia. The findings highlight the importance of temperature variability for climate risk assessment, adaptation planning, and equitable climate solutions.
+### Abstract
 
-[Read the article](https://www.nature.com/articles/s41598-026-54733-4)
+Global warming has become an increasingly urgent issue that must be addressed within a limited timeframe, as the debate over the overshoot pathway intensifies. Existing climate and socio-economic models inform our understanding but are too complex for timely action and non-expert use. To address these challenges, our stochastic framework leverages a one-box Ornstein–Uhlenbeck model with colored-noise forcing to characterize variance scaling in detrended temperatures and links this behavior to an empirical Hurst coefficient. The observed weakening of anti-persistence, as summarized by this coefficient, is then used to quantify changes in temperature variance relative to the pre-industrial era. Our empirical Hurst maps reveal patterns consistent with findings from global climate models, highlighting greater changes in temperature variance in equatorial regions, such as southeastern Amazonia and western Indonesia, than in high-latitude regions. Furthermore, seasonal analyses of African temperature records reveal pronounced heterogeneity in variance changes, identifying vulnerable regions that are masked when variability is assessed at annual timescales. By linking our results to climate solutions that consider fairness in burden-sharing and unequal risk-bearing capacity, we anticipate that the empirical Hurst coefficient will support more equitable and effective climate action.
+
+### Citation
+
+Wang, Y., & Turvey, C. G. (2026). The variability fingerprint of a warming world informing climate risk and solutions. *Scientific Reports*, *16*, 26154. https://doi.org/10.1038/s41598-026-54733-4
+
+[View Paper](https://www.nature.com/articles/s41598-026-54733-4)
