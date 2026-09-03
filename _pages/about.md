@@ -7,19 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Applied Economics and Management at Cornell University. My research combines applied econometrics, climate data, and financial-market analysis to study climate risk, ESG attention, agricultural finance, and risk-related decision-making.
+I am a Ph.D. candidate in Applied Economics and Management at Cornell University. My research is organized around a central question: how does climate risk move from a physical signal to an economic response? I study how climate variability changes the risks people and markets face, how climate information becomes salient enough to affect attention and behavior, and how these responses shape economic outcomes and resilience.
 
-My work focuses on how climate variability and climate-related information shape economic and financial outcomes. I am particularly interested in climate risk, commodity and agricultural markets, catastrophe risk, environmental finance, and data-driven policy analysis.
-
-I use econometric modeling, stochastic simulation, geospatial climate data, and large-scale empirical analysis to study questions at the intersection of climate, finance, and decision-making.
+This question connects my work in agricultural economics and climate economics. Agriculture provides a natural setting because climate shocks are closely tied to production, finance, and risk management. My broader research extends the same perspective to public attention, financial decisions, and climate policy, with the goal of understanding how people and economic systems respond to uncertainty.
 
 ## Research Interests
 
-- Climate risk and climate finance
-- ESG attention and information economics
-- Applied econometrics and causal inference
-- Catastrophe risk and insurance-linked securities
+- Agricultural Economics
+- Climate Economics and Policy
+- Climate Risk and Economic Resilience
+- Climate Information and Behavioral Responses
+- Agricultural Finance
 
-## Selected Work
+## Selected Research
 
-- **The variability fingerprint of a warming world informing climate risk and solutions**, *Scientific Reports*, 2026.
+### Job Market Paper
+
+**Attention Allocation to Climate Signals and Public Interest in ESG Topics: Evidence from Chinese Cities**  
+*Economic Analysis and Policy*, 2026.
+
+### Other Published Paper
+
+**The Variability Fingerprint of a Warming World Informing Climate Risk and Solutions**  
+*Scientific Reports*, 2026.
