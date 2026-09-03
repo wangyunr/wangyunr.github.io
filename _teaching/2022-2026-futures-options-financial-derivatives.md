@@ -4,6 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/futures-options-financial-derivatives
 venue: "Cornell University"
+date: 2026-01-20
 location: "Ithaca, NY, USA"
 ---
 
