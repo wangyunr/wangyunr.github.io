@@ -14,6 +14,7 @@ I hold an M.S. in Applied Economics and Management from Cornell University and a
 Fields: 
 - Agricultural Economics
 - Climate Economics and Policy
+
 Research Areas:
 - Climate Risk and Economic Resilience
 - Climate Information and Behavioral Responses
