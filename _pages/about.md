@@ -6,15 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am an applied agricultural economist and a Ph.D. candidate in Applied Economics and Management at Cornell University. My research examines how climate risk affects economic outcomes and individual behavior. I began by studying the effects of changes in temperature variability on agricultural production and crop vulnerability, and have since extended this work to questions about climate uncertainty, resilience in the broader economy, and responses to climate information. My research combines empirical analysis and stochastic modeling.
 
-I am a Ph.D. candidate in Applied Economics and Management at Cornell University. My research is organized around a central question: how does climate risk move from a physical signal to an economic response? I study how climate variability changes the risks people and markets face, how climate information becomes salient enough to affect attention and behavior, and how these responses shape economic outcomes and resilience.
-
-This question connects my work in agricultural economics and climate economics. Agriculture provides a natural setting because climate shocks are closely tied to production, finance, and risk management. My broader research extends the same perspective to public attention, financial decisions, and climate policy, with the goal of understanding how people and economic systems respond to uncertainty.
+I hold an M.S. in Applied Economics and Management from Cornell University and a B.A. in Economics from the University of Minnesota. In the long term, I hope to apply the tools of applied economics to a broader range of meaningful research questions and policy-relevant analysis.
 
 ## Research Interests
-
+Fields: 
 - Agricultural Economics
 - Climate Economics and Policy
+Research Areas:
 - Climate Risk and Economic Resilience
 - Climate Information and Behavioral Responses
 - Agricultural Finance
